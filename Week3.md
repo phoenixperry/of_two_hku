@@ -68,4 +68,9 @@ Global functions we need to know about:
 `ofSoundStopAll() `
 
 
+http://openframeworks.cc/documentation/sound/ofSoundStream.html
+
+http://www.fmod.org/
+
+
 
